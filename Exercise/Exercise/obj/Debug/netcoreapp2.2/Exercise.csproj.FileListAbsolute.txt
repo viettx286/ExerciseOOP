@@ -1,0 +1,11 @@
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/bin/Debug/netcoreapp2.2/Exercise.deps.json
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/bin/Debug/netcoreapp2.2/Exercise.runtimeconfig.json
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/bin/Debug/netcoreapp2.2/Exercise.runtimeconfig.dev.json
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/bin/Debug/netcoreapp2.2/Exercise.dll
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/bin/Debug/netcoreapp2.2/Exercise.pdb
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/obj/Debug/netcoreapp2.2/Exercise.csprojAssemblyReference.cache
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/obj/Debug/netcoreapp2.2/Exercise.csproj.CoreCompileInputs.cache
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/obj/Debug/netcoreapp2.2/Exercise.AssemblyInfoInputs.cache
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/obj/Debug/netcoreapp2.2/Exercise.AssemblyInfo.cs
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/obj/Debug/netcoreapp2.2/Exercise.dll
+/media/dev/Data/ExerciseOOP/Exercise/Exercise/obj/Debug/netcoreapp2.2/Exercise.pdb

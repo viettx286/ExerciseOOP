@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Exercise.2063824251.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Exercise" t="IncludeRecursive">
+        <e p="Director.cs" t="Include" />
+        <e p="Exercise.csproj" t="IncludeRecursive" />
+        <e p="ExportHelper.cs" t="Include" />
+        <e p="IInfo.cs" t="Include" />
+        <e p="Managers.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Staffs.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="exportfile.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Exercise.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Exercise.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+Ten:xuan viet	Role: Staff 	Salary: $5,500,000.00
+Ten:thai binh	Role: Staff 	Salary: $6,600,000.00
+Ten:quang minh	Role: Manager 	Salary: 11500000
+Ten:cao  hoang	Role: Manager 	Salary: 13800000
+Ten:tru tien	Role: Director 	Salary: 32250000
+Ten:thu thuy	Role: Director 	Salary: 38700000
